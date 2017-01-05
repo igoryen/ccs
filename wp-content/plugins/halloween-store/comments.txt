@@ -1,0 +1,8 @@
+1. create the submenu item. The Settings Submenu item will be located at the bottom
+    of the Settings menu in the Dashboard.
+
+2. to link your (settings) form to your registered settings that will be defined further.
+    Also, to include a form nonce for security.
+3. To register the things to be used in the settings form.
+4. To sanitize user intput for each setting prior to saving in WordPress database.
+    A very important security step.
